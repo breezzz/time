@@ -32,4 +32,6 @@ final class Time
     const MONTH = 2592000;
 
     const YEAR = 31536000;
+    
+    const EON = 812871936000;
 }
